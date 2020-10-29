@@ -1,0 +1,6 @@
+html{
+	scroll-behavior: smooth;
+}
+.gradiente{
+	background-image: linear-gradient(to right,#FF0000, #F8F8FF)
+}
