@@ -1,6 +1,32 @@
 html{
-	scroll-behavior: smooth;
-}
+	scroll-behavior: smooth;}
+
 .gradiente{
 	background-image: linear-gradient(to right,#FF0000, #F8F8FF)
+}
+#Sobre{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+}
+#titulos {
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+#titulos h2{
+	margin-top: 20px;
+}
+#hino {
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+#hino h3 {
+	margin-top: 10px;
+	font-size: 53px;
+	text-align: center;
 }
